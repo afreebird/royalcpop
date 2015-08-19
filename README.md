@@ -8,7 +8,7 @@ Project info
 ------------
 
 - Official website: <http://afreebird.org/>
-- Code repository: <https://github.com/afreebird/royalcpop>
+- Code repository: <https://github.com/afreebird/>
 - License: [GNU Affero GPL 3][license]
 
 Installation
@@ -21,5 +21,6 @@ Installation
 
 [afreebird]: http://www.afreebird.org
 [license]: http://www.gnu.org/licenses/agpl-3.0.html
+[pixelmixer]: http://pixel-mixer.com/
 
 Thanks to the many Ruby projects we're using and the [PixelMixer][pixelmixer] icon collection.
